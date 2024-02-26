@@ -1,0 +1,39 @@
+I. Spring Security là gì?
+- Nó là môi trường dứng giữa Web Resource và Client. Và nó quản lý xem Client này có được phép truy cập vào Web Resource đó hay không.
+- Cung cấp các tính năng bảo mật để bảo vệ ứng dụng khỏi các cuộc tấn công, giúp bạn kiểm soát quyển truy cập của người dùng và cung cấp một cơ chế xác thực dựa trên các phương thức như username/password, OAuth, JWT, và nhiều phương thức khác.
+
+II. Spring Security hạt động
+-> Client truy cập 
+-> Spring Securtiry Filter kiểm tra xem, nội dung có được bảo mật hay không 
+-> Nếu không được bảo mật(Trả về cho họ), Nếu có thì kiểm tra xem đã đăng nhập chưa (Authenticated) 
+-> Chưa đăng nhập thì bắt đăng nhập, Nếu đã đăng nhập thì kiểm tra quyền có được truy cập vào không (Authorized). 
+-> Nếu được phép cho truy cập, Không được phép thì thông báo.
+
+III. Authentication vs Authorized
+1. Authentication
+- Kiếm tra xem người dùng đã đăng nhập hay chưa. Tài khoản này có tồn tại không, tên đăng nhập và mật khẩu có khớp không,...
+- Hoặc thông qua các phương thức xác thực bổ sung như Signle Sign On (SSO) và OAuth.
+
+2. Authorized 
+- Kiểm soát quyền truy cập của người dùng vào các phần của ứng dụng.
+- Bạn có thể xác định các vai trò và phân quyền cho từng người dùng hoặc nhóm người dùng, sau đó sử dụng chúng để giới hạn quyền truy cập vào các tài nguyên.
+
+3. Resource Protection
+- Bảo vệ các tài nguyên trong ứng dụng, chẳng hạn như các URL, trang web, API endpoint, và các thành phần khác
+- Nó cho phép bạn áp dụng các quy tắc bảo mật để chỉ cho phép người dùng có quyền truy cập vào những tài nguyên mong muốn.
+
+IV. User ảo
+- Tạo thêm user để phân ra vai trò, và làm việc với 1 số endpoint, web resource đươc phân quyền.
+1. Password store
+- Mật khẩu được lưu dưới dạng:
+    + Văn bản thô (noop)
+          {noop}test123456
+    + Mã hóa (bcrypt - BCryptPasswordEncoder)
+	  {bcryp}------------
+
+2. InMemoryUserDetailsManager
+- Là một lớp mà Spring Security cung cấp để xử lý việc quản lý người dùng và cung cấp thông tin về người dùng (username, password, roles) từ bộ nhớ.
+-> Thường được sử dụng để test trước, chứ ít khi được sử dụng trong thực tế, vì trong thực tế chúng ta có các bảng account, roles của chúng ta. Và lớp này tốn rất nhiều bộ nhớ.
+------------------------------------
+
+- Spring Security hỗ trợ nhiều phương thức xác thực, cho phép bạn tích hợp với hệ thống xác thực của bên thứ ba như OAuth, LDAP, CAS và nhiều hơn nữa.

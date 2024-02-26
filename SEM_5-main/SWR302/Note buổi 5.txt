@@ -1,0 +1,10 @@
+I. Các góc nhìn trong Software Requirements?
+- 3 Câu hỏi cần quan tâm khi làm về requirement:
+	+ Why?: Vì sao phải làm app. -> Ai trả lời (Đã học ở buổi 4)
+	+ What:
+	+ Who:
+1. WHY?
+- Vì sao phải làm app? Ai trả lời câu hỏi này?
+- GENERIC APP: Vì cần kiếm tiền, lợi ích ... Người trả lời câu hỏi này là các sếp, các founder, trưởng phòng kinh doanh,...
+- CUSTOMIZE APP: Khác hàng, giám đốc, chủ doanh nghiệp sẽ là người tự trả lời câu hỏi. 
+1. Scope of RE

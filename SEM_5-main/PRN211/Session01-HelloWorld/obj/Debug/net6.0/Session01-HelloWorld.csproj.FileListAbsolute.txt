@@ -1,0 +1,14 @@
+D:\Study\SEM_5\PRN211\Session01-HelloWorld\bin\Debug\net6.0\Session01-HelloWorld.exe
+D:\Study\SEM_5\PRN211\Session01-HelloWorld\bin\Debug\net6.0\Session01-HelloWorld.deps.json
+D:\Study\SEM_5\PRN211\Session01-HelloWorld\bin\Debug\net6.0\Session01-HelloWorld.runtimeconfig.json
+D:\Study\SEM_5\PRN211\Session01-HelloWorld\bin\Debug\net6.0\Session01-HelloWorld.dll
+D:\Study\SEM_5\PRN211\Session01-HelloWorld\bin\Debug\net6.0\Session01-HelloWorld.pdb
+D:\Study\SEM_5\PRN211\Session01-HelloWorld\obj\Debug\net6.0\Session01-HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\SEM_5\PRN211\Session01-HelloWorld\obj\Debug\net6.0\Session01-HelloWorld.AssemblyInfoInputs.cache
+D:\Study\SEM_5\PRN211\Session01-HelloWorld\obj\Debug\net6.0\Session01-HelloWorld.AssemblyInfo.cs
+D:\Study\SEM_5\PRN211\Session01-HelloWorld\obj\Debug\net6.0\Session01-HelloWorld.csproj.CoreCompileInputs.cache
+D:\Study\SEM_5\PRN211\Session01-HelloWorld\obj\Debug\net6.0\Session01-HelloWorld.dll
+D:\Study\SEM_5\PRN211\Session01-HelloWorld\obj\Debug\net6.0\refint\Session01-HelloWorld.dll
+D:\Study\SEM_5\PRN211\Session01-HelloWorld\obj\Debug\net6.0\Session01-HelloWorld.pdb
+D:\Study\SEM_5\PRN211\Session01-HelloWorld\obj\Debug\net6.0\Session01-HelloWorld.genruntimeconfig.cache
+D:\Study\SEM_5\PRN211\Session01-HelloWorld\obj\Debug\net6.0\ref\Session01-HelloWorld.dll

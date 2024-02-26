@@ -1,0 +1,15 @@
+D:\Study\SEM_5\PRN211\Session04-Collection\SchoolManager\StudentManager\bin\Debug\net6.0\StudentManager.exe
+D:\Study\SEM_5\PRN211\Session04-Collection\SchoolManager\StudentManager\bin\Debug\net6.0\StudentManager.deps.json
+D:\Study\SEM_5\PRN211\Session04-Collection\SchoolManager\StudentManager\bin\Debug\net6.0\StudentManager.runtimeconfig.json
+D:\Study\SEM_5\PRN211\Session04-Collection\SchoolManager\StudentManager\bin\Debug\net6.0\StudentManager.dll
+D:\Study\SEM_5\PRN211\Session04-Collection\SchoolManager\StudentManager\bin\Debug\net6.0\StudentManager.pdb
+D:\Study\SEM_5\PRN211\Session04-Collection\SchoolManager\StudentManager\obj\Debug\net6.0\StudentManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\SEM_5\PRN211\Session04-Collection\SchoolManager\StudentManager\obj\Debug\net6.0\StudentManager.AssemblyInfoInputs.cache
+D:\Study\SEM_5\PRN211\Session04-Collection\SchoolManager\StudentManager\obj\Debug\net6.0\StudentManager.AssemblyInfo.cs
+D:\Study\SEM_5\PRN211\Session04-Collection\SchoolManager\StudentManager\obj\Debug\net6.0\StudentManager.csproj.CoreCompileInputs.cache
+D:\Study\SEM_5\PRN211\Session04-Collection\SchoolManager\StudentManager\obj\Debug\net6.0\StudentManager.sourcelink.json
+D:\Study\SEM_5\PRN211\Session04-Collection\SchoolManager\StudentManager\obj\Debug\net6.0\StudentManager.dll
+D:\Study\SEM_5\PRN211\Session04-Collection\SchoolManager\StudentManager\obj\Debug\net6.0\refint\StudentManager.dll
+D:\Study\SEM_5\PRN211\Session04-Collection\SchoolManager\StudentManager\obj\Debug\net6.0\StudentManager.pdb
+D:\Study\SEM_5\PRN211\Session04-Collection\SchoolManager\StudentManager\obj\Debug\net6.0\StudentManager.genruntimeconfig.cache
+D:\Study\SEM_5\PRN211\Session04-Collection\SchoolManager\StudentManager\obj\Debug\net6.0\ref\StudentManager.dll
